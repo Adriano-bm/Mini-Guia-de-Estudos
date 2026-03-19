@@ -62,5 +62,9 @@ O PIX opera sobre o **SPI (Sistema de Pagamentos Instantâneos)**, com liquidaç
 * `/resumos`: Documentos gerados pela IA.
 * `/scripts`: Exemplos de automação (se houver).
 
+* ## 🔗 Link do Projeto no NotebookLM
+Você pode acessar o caderno temático e interagir com a IA através deste link:
+[Acesse o Notebook do PIX aqui](https://notebooklm.google.com/notebook/6387e534-d2f5-4958-858d-9a323d01f51a))
+
 ---
 *Este projeto foi desenvolvido como parte de um plano de estudos em Análise e Desenvolvimento de Sistemas.*
